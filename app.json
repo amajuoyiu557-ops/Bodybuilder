@@ -1,5 +1,5 @@
 {
-  "expo": {
+  "expo": {"icon": "./assets/app_icon.png"
     "name": "Bodybuilders",
     "slug": "bodybuilders",
     "version": "1.0.0",
